@@ -1,7 +1,7 @@
 # Hi there, I'm Rand Alharthi !
 
 - 🔭 A bachelor student at PNU University 
-- 🌱 I’m currently learning everything 
+- 🌱 I’m currently learning backend 
 - 💞 I’m looking to collaborate with other Passionate Developers
 - 🥅 2023 Goals: Learn more about web3
 - ⚡ Fun fact: I love to organize everything
@@ -20,7 +20,6 @@
 ## IDE:
 <img align="left" alt="Visual Studio Code" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 <img align="left" alt="Android Stid" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" />
-<img align="left" alt="XCode" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" />
 <br/>
 
 ## Languages:
@@ -30,7 +29,6 @@
 <img align="left" alt="html" width="30px" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" />
 <img align="left" alt="css" width="30px" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" />
 <img align="left" alt="JavaScript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-<img align="left" alt="Swift" width="34px" src="https://www.vectorlogo.zone/logos/swift/swift-icon.svg" />
 <img align="left" alt="Soldity" width="34px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" />
 <br/>
 
@@ -46,7 +44,6 @@
 <img align="left" alt="npm" width="60px" src="https://www.vectorlogo.zone/logos/npmjs/npmjs-ar21.svg" />
 <img align="left" alt="React" width="30px" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" />
 <img align="left" alt="Bootstrap" width="34px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
-<img align="left" alt="Docker" width="40px" src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" />
 <img align="left" alt=Firebase" width="30px" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" />
 <img align="left" alt="NGIИX" width="30px" src="https://www.vectorlogo.zone/logos/nginx/nginx-icon.svg" />
 <br/>
